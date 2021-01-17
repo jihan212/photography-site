@@ -1,2 +1,1 @@
-# photography-site
-# photography-site
+Live site: https://jihan212.github.io/photography-site/
